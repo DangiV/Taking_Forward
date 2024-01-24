@@ -1,0 +1,250 @@
+.childcarosol h6{
+    text-align: center;
+}
+
+
+/* .owl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-next {
+   top: 25%;
+   position: absolute;
+   left: 66%;
+   font-size: 60px !important;
+}
+
+.owl-carousel .owl-nav button.owl-prev, .owl-carousel .owl-nav button.owl-prev {
+   top: 25%;
+   position: absolute;
+   left: 32%;
+   font-size: 60px;
+   font-size: 60px !important;
+
+}
+
+.owl-theme .owl-dots, .owl-theme .owl-na{
+    display: none;
+} */
+
+.BenefitsFont{
+    text-align: center;
+}
+
+.BenifitText{
+    padding: 50px;
+}
+
+.iconImgparent{
+    padding: 10px;
+}
+
+.TouserImage{
+    text-align: center;
+}
+
+.testimonalMainparent{
+    background-color: #3232b8;
+}
+
+.childcarosol{
+    padding: 30px;
+}
+
+.imagesMain{
+    border: 2px solid green;
+    border-radius: 15px;
+}
+.MainsectionImage{
+    padding: 35px !important; 
+    background-color: white;
+}
+.MainsectionImage img{
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.MainsectionImage h4{
+   text-align: center;
+}
+
+.MainsectionImage hr{
+    border-top: 1px dashed blue;
+
+}
+.cardfs
+{
+    font-size: 19px !important;
+    font-weight: 600;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:root {
+    --blue: #1e90ff;
+    --green: #5fe45f;
+  }
+
+/* form css */
+.lineheight
+{
+    line-height: 17px;
+}
+
+nav p
+{
+    font-size: 20px;
+    font-weight: 600;
+
+}
+.divider:after,
+.divider:before {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: #eee;
+}
+.achivementHead
+{
+    font-size: 90px;
+    font-weight: 700;
+    color: var(--blue);
+}
+
+.achivementpading
+{
+    padding: 80px 120px !important;
+}
+.dashright
+{
+    border-right: 4px dashed black;
+}
+.achivementtxt
+{
+    padding: 5px 70px !important;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.whatsapp
+{
+    background-color:#25d366;
+    font-size: 20px;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 5px;
+    height: 40px;
+    width: 40px;
+}
+
+.nav-item .active
+{
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    border-bottom:4px solid var(--blue) !important ;
+}
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}
+
+.dropdown>.dropdown-toggle:active {
+    /*Without this, clicking will make it sticky*/
+    pointer-events: none;
+}
+
+input,
+select {
+    background: #96f58333 !important;
+
+}
+.btnx
+{
+    background-color: rgb(104, 173, 48) !important;
+    padding: 12px 55px!important;
+    color: white !important;
+    font-weight: 700 !important;
+}
+.fh
+{
+    font-size: 35px;
+    font-weight: 700;
+}
+.fp
+{
+    font-size: 20px;
+    font-weight: 450;
+}
+form {
+
+    border: 1px solid rgba(83, 83, 83, 0.603);
+    border-radius: 20px !important;
+    padding: 10% 5%;
+}
+
+/* review sec */
+
+.review .card
+{
+    border-radius: 25px;
+}
+.review .card-text
+{
+    font-size: 18px;
+    font-weight: 500;
+    color: rgba(44, 44, 44, 0.822);
+    text-align: justify;
+}
+.ReviewHead
+{
+    color: rgb(61, 61, 61);
+    font-size: 30px !important;
+    font-weight: 600 !important;
+    padding: 30px 0px;
+}
+.reviewbtn
+{
+    padding: 12px 75px !important;
+    font-size: 20px;
+    font-weight: 600;
+    border: 1px solid var(--blue);
+    background-color: white;
+    color: rgba(0, 0, 0, 0.795);
+}
+.footer
+{
+    padding: 3% 12% ;
+    background-color: var(--blue) ;
+}
+.fis
+{
+    font-size: 23px;
+}
+.ftextfooter
+{
+    font-size: 17px;
+    color: rgba(255, 255, 255, 0.733);
+    text-decoration: none;
+}
+.footericg
+{
+    color: var(--green);
+}
+
+.footerinput
+{
+    width: 210px !important;
+    height: 40px;
+    font-size: 18px;
+}
